@@ -1,9 +1,14 @@
-## Documentation
+# **Documentation**
 
 First of all create a file with .env extension and write below line in it and save
 
 ```
 PORT=8000
+```
+
+## run this command next in the terminal
+```
+npm i
 ```
 
 **In order to test the api have to install postman or, for vs code install thunder client**
